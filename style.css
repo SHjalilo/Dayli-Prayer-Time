@@ -42,13 +42,39 @@ p{
     opacity: 0.5;
     margin: 12px;
 }
-span{
+._city{
     background-color: rgb(21, 58, 63);
-    padding: 20px;
+    padding: 20px 10px;
     position: fixed;
-    bottom: 149px;
-    right: 330px;
+    bottom: 369px; /*139*/
+    right: 80px;
     color: rgb(0, 255, 242);
     opacity: 0.5;
     border-radius: 20px;
+    width: 250px;
+}
+._country{
+    background-color: rgb(21, 58, 63);
+    padding: 20px 10px;
+    position: fixed;
+    bottom: 469px; /*139*/
+    right: 80px;
+    color: rgb(0, 255, 242);
+    opacity: 0.5;
+    border-radius: 20px;
+    width: 250px;
+}
+._calendar{
+    background-color: rgb(21, 58, 63);
+    padding: 20px 10px;
+    position: fixed;
+    bottom: 269px; /*139*/
+    right: 80px;
+    color: rgb(0, 255, 242);
+    opacity: 0.5;
+    border-radius: 20px;
+    width: 250px;
+}
+input{
+    width: 150px;
 }

@@ -1,0 +1,25 @@
+{
+  "name": "dpt",
+  "version": "1.0.0",
+  "description": "\"daily prayer time app\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHjalilo/Dayli-Prayer-Time.git"
+  },
+  "keywords": [
+    "\"\""
+  ],
+  "author": "\"jalil\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHjalilo/Dayli-Prayer-Time/issues"
+  },
+  "homepage": "https://github.com/SHjalilo/Dayli-Prayer-Time#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
